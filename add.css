@@ -1,0 +1,68 @@
+#addbody
+{
+	border: 2px solid black;
+	height:  auto;
+	border-radius: 10px;
+	background-color: rgba(255,255,255,.3);
+}
+#addmenu
+{
+	margin: 1% 1% 5% 1%;
+	display: flex;
+}
+#addmenuButton
+{
+	margin: auto;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	font-size: 20px;
+	background-color: blue;
+	color: white;
+	font-weight: bold;
+	border: 2px solid white;
+}
+#addframe
+{
+	height: 120px;
+	overflow: scroll;
+}
+#content
+{
+	height: 500px;
+	background: rgba(255,255,255,0.0);
+	backdrop-filter: saturate(180%) blur(5px);
+	margin: 0% 3% 0% 3%;
+	overflow: scroll;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
